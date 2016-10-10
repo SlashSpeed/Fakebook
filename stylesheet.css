@@ -1,0 +1,48 @@
+.link{
+    text-decoration: none;
+    color:greenyellow;
+     }
+
+.link:hover{
+    color:red
+    }
+
+
+#ending{
+    text-align: center;
+   }
+
+#body{
+    background-image: url(http://i.imgur.com/GdvmvkA.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+
+.textbackground{
+    text-align: center;
+    }
+
+.images{
+    border: 0.2em solid white;
+    border-radius: 100px;
+    }
+
+.image{
+     border: 0.2em solid white;
+     border-radius: 100px;
+     padding: 0.1em;
+    }
+
+.image:hover{
+    width: 25em;
+    height: 25em;
+    }
+
+/*not working yet
+#music{
+    visibility: hidden;
+    
+}
+*/
